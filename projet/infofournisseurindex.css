@@ -1,0 +1,527 @@
+.iconamooncomment-fill,
+.material-symbolscomment {
+  position: absolute;
+  top: 1284px;
+  left: 187px;
+  width: 23px;
+  height: 18px;
+  overflow: hidden;
+}
+.material-symbolscomment {
+  top: 1102px;
+  left: 348px;
+  width: 50px;
+  height: 56px;
+}
+.lentreprise-familiale-diagnom,
+.qui-sommes-nous {
+  position: absolute;
+  top: 178px;
+  left: 50px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 290px;
+  height: 48px;
+}
+.lentreprise-familiale-diagnom {
+  top: 263px;
+  left: 44px;
+  font-size: var(--font-size-11xl);
+  font-weight: 300;
+  font-family: var(--font-open-sans);
+  color: var(--color-black);
+  text-align: left;
+  width: 1258px;
+  height: 205px;
+}
+.information-dun-fournisseurs-child {
+  position: absolute;
+  top: 1052px;
+  left: 359px;
+  border-radius: 89px;
+  width: 1157px;
+  height: 135px;
+}
+.les-principales-activites,
+.notation-generale {
+  position: absolute;
+  top: 437px;
+  left: 50px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 597px;
+  height: 48px;
+}
+.notation-generale {
+  top: 734px;
+  left: 61px;
+}
+.la-vente-en,
+.limportation-de-matriels {
+  margin: 0;
+}
+.limportation-de-matriels-container,
+.nos-informations {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.limportation-de-matriels-container {
+  top: 528px;
+  left: 50px;
+  font-size: var(--font-size-11xl);
+  font-weight: 300;
+  font-family: var(--font-open-sans);
+  color: var(--color-black);
+  text-align: left;
+  width: 1280px;
+  height: 287px;
+}
+.nos-informations {
+  top: 1246px;
+  left: 49px;
+  width: 290px;
+  height: 36px;
+}
+.contact-details {
+  position: absolute;
+  top: 55.3px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightseagreen);
+  width: 83px;
+  height: 91.7px;
+}
+.icoutline-email-icon {
+  position: absolute;
+  top: 79.2px;
+  left: 21.6px;
+  width: 39.8px;
+  height: 44px;
+  overflow: hidden;
+}
+.e-mail,
+.infodiagnomedalgeriecom {
+  position: absolute;
+  top: 3.8px;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 92.1px;
+  height: 45.2px;
+}
+.infodiagnomedalgeriecom {
+  top: 79.2px;
+  left: 98.9px;
+  font-size: var(--font-size-6xl);
+  width: 290px;
+  height: 37.7px;
+  white-space: nowrap;
+}
+.contact-details1 {
+  position: absolute;
+  top: 55.3px;
+  left: 580px;
+  border-radius: 50%;
+  background-color: var(--color-lightseagreen);
+  width: 83px;
+  height: 91.7px;
+}
+.biphone-icon {
+  position: absolute;
+  top: 81.7px;
+  left: 603.9px;
+  width: 34.1px;
+  height: 37.7px;
+  overflow: hidden;
+}
+.tl {
+  position: absolute;
+  top: 3.8px;
+  left: 598.2px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 51.2px;
+  height: 45.2px;
+}
+.p,
+.p1 {
+  margin: 0;
+}
+.blank-space {
+  position: absolute;
+  top: 62.8px;
+  left: 678.9px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 213.8px;
+  height: 75.4px;
+}
+.contact-details2 {
+  position: absolute;
+  top: 51.5px;
+  left: 1089.4px;
+  border-radius: 50%;
+  background-color: var(--color-lightseagreen);
+  width: 83px;
+  height: 91.7px;
+}
+.vector-arrow-icon {
+  position: absolute;
+  top: 77.9px;
+  left: 1119px;
+  width: 23.2px;
+  height: 36.6px;
+}
+.adresse,
+.lot-n1-lotissement {
+  position: absolute;
+  top: 0;
+  left: 1107.6px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 116px;
+  height: 45.2px;
+}
+.lot-n1-lotissement {
+  top: 66.6px;
+  left: 1188.4px;
+  font-size: var(--font-size-xl);
+  width: 336.6px;
+  height: 60.3px;
+}
+.email-icon {
+  position: absolute;
+  top: 1360px;
+  left: 248px;
+  width: 1525px;
+  height: 147px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.star-icon4 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  min-height: 90px;
+}
+.rating-bar {
+  position: absolute;
+  top: 828px;
+  left: calc(50% - 402px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0 8px;
+}
+.secondary-rectangle {
+  position: absolute;
+  top: 1612px;
+  left: calc(50% - 50px);
+  background-color: var(--color-white);
+  width: 100px;
+  height: 26px;
+}
+.give-us-your {
+  position: absolute;
+  top: 958px;
+  left: 41px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 597px;
+  height: 48px;
+}
+.direction-vector-icon,
+.here {
+  position: absolute;
+  top: 1099px;
+  left: 1422px;
+  width: 53px;
+  height: 42px;
+}
+.here {
+  top: 1092px;
+  left: 440px;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+  font-family: var(--font-open-sans-condensed);
+  display: inline-block;
+  width: 237px;
+  height: 36px;
+  opacity: 0.75;
+}
+.mdishop-icon,
+.our-shop {
+  position: relative;
+  flex-shrink: 0;
+}
+.mdishop-icon {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.our-shop {
+  width: 128px;
+  height: 48px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.shop-frame {
+  position: absolute;
+  top: 438px;
+  left: 1404px;
+  border-radius: 70px;
+  background-color: var(--color-lightseagreen);
+  box-shadow: 0 0 45px #33a58e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-2xl) var(--padding-11xl) 40px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.information-dun-fournisseurs-item {
+  position: absolute;
+  top: 457px;
+  left: 1720px;
+  width: 164px;
+  height: 155px;
+  object-fit: contain;
+}
+.information-dun-fournisseurs-inner {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 135px;
+}
+.epplisse {
+  position: absolute;
+  top: 77px;
+  left: 611px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+}
+.searchbar-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.search,
+.search1,
+.search2,
+.search3,
+.search4,
+.search5 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  flex-shrink: 0;
+}
+.search {
+  font-size: 15px;
+  white-space: nowrap;
+}
+.search1,
+.search2,
+.search3,
+.search4,
+.search5 {
+  height: 22px;
+  width: 31px;
+  display: inline-block;
+}
+.icon-dictation {
+  height: 16px;
+  width: 11px;
+  position: relative;
+}
+.phone-icon,
+.searchbar {
+  background-color: var(--color-white);
+}
+.phone-icon {
+  height: 15px;
+  width: 46px;
+  position: relative;
+}
+.searchbar {
+  position: sticky;
+  top: 0;
+  left: 33px;
+  border-radius: 24px;
+  box-shadow: 0 0 10px #fff;
+  width: 336px;
+  height: 55px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-8xs) 0 13px;
+  box-sizing: border-box;
+  gap: 0 10px;
+  z-index: 99;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: rgba(0, 0, 0, 0.3);
+}
+.home {
+  height: 27px;
+  width: 52px;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home,
+.shop {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.about-us,
+.contact-us {
+  height: 27px;
+  display: inline-block;
+}
+.about-us,
+.contact-us,
+.help {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.services-bar {
+  position: absolute;
+  top: 40px;
+  left: calc(50% - 176px);
+  width: 447px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 27px 0 0;
+  box-sizing: border-box;
+  min-height: 32px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.profile-button-icon {
+  position: absolute;
+  top: 38px;
+  left: 1802px;
+  width: 60px;
+  height: 60px;
+}
+.information-dun-fournisseurs {
+  width: 100%;
+  height: 1582px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow-y: auto;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+@media screen and (max-width: 750px) {
+  .qui-sommes-nous {
+    font-size: var(--font-size-9xl);
+  }
+  .lentreprise-familiale-diagnom {
+    font-size: var(--font-size-5xl);
+  }
+  .les-principales-activites,
+  .notation-generale {
+    font-size: var(--font-size-9xl);
+  }
+  .limportation-de-matriels-container {
+    font-size: var(--font-size-5xl);
+  }
+  .nos-informations {
+    font-size: var(--font-size-9xl);
+  }
+  .adresse,
+  .e-mail,
+  .tl {
+    font-size: var(--font-size-5xl);
+  }
+  .give-us-your,
+  .here,
+  .our-shop {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .qui-sommes-nous {
+    font-size: var(--font-size-2xl);
+  }
+  .lentreprise-familiale-diagnom {
+    font-size: var(--font-size-lg);
+  }
+  .les-principales-activites,
+  .notation-generale {
+    font-size: var(--font-size-2xl);
+  }
+  .limportation-de-matriels-container {
+    font-size: var(--font-size-lg);
+  }
+  .nos-informations {
+    font-size: var(--font-size-2xl);
+  }
+  .e-mail {
+    font-size: var(--font-size-lg);
+  }
+  .infodiagnomedalgeriecom {
+    font-size: var(--font-size-xl);
+  }
+  .tl {
+    font-size: var(--font-size-lg);
+  }
+  .blank-space {
+    font-size: var(--font-size-xl);
+  }
+  .adresse {
+    font-size: var(--font-size-lg);
+  }
+  .lot-n1-lotissement {
+    font-size: var(--font-size-base);
+  }
+  .rating-bar {
+    flex-wrap: wrap;
+  }
+  .give-us-your,
+  .here,
+  .our-shop {
+    font-size: var(--font-size-2xl);
+  }
+  .about-us,
+  .contact-us,
+  .help,
+  .home,
+  .shop {
+    font-size: var(--font-size-base);
+  }
+  .services-bar {
+    flex-wrap: wrap;
+  }
+  .information-dun-fournisseurs {
+    height: auto;
+    min-height: 1582;
+  }
+}
